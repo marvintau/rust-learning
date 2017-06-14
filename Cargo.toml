@@ -1,0 +1,6 @@
+[package]
+name = "dungeon"
+version = "0.1.0"
+authors = ["Yue Tao <marvin@everstream.cn>"]
+
+[dependencies]
